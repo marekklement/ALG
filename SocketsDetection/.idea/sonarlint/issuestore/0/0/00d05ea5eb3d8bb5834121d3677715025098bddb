@@ -1,0 +1,19 @@
+
+ssquid:S3776"RRefactor this method to reduce its Cognitive Complexity from 35 to the 15 allowed.(ÂÁî«üÿÿÿÿ8Œïô™ù+
+bsquid:S1126"AReplace this if-then-else statement by a single return statement.(§öÎƒÿÿÿÿÿ8å²£šù+
+Bsquid:S1481"&Remove this unused "j" local variable.(¾ ÖÒ8ŒØª´ù+
+=squid:S1659"!Declare "rgt" on a separate line.(æâš¼8ê×”­ù+
+Jsquid:S1481")Remove this unused "node" local variable.(óÙğêıÿÿÿÿ8Œïô™ù+
+nsquid:S3776"RRefactor this method to reduce its Cognitive Complexity from 21 to the 15 allowed.(½¶êª8Š¥Ä³ù+
+nsquid:S3776"RRefactor this method to reduce its Cognitive Complexity from 38 to the 15 allowed.(ª·–ä8ÇÓ¥´ù+
+Y
+squid:S106"9Replace this use of System.out or System.err by a logger.(ûûÔùÿÿÿÿ8È•¥šù+
+Jsquid:S1068")Remove this unused "edges" private field.(®‘óªøÿÿÿÿ8Œïô™ù+
+t
+squid:S135"YReduce the total number of break and continue statements in this loop to use at most one.(¾ ÖÒ8àŸÍ´ù+
+y
+squid:S135"YReduce the total number of break and continue statements in this loop to use at most one.(µ¾…¬ûÿÿÿÿ8Œïô™ù+
+ssquid:S3776"RRefactor this method to reduce its Cognitive Complexity from 19 to the 15 allowed.(ÇïïŸÿÿÿÿÿ8õµ›®ù+
+Psquid:S1066"/Merge this if statement with the enclosing one.(“Ë¿úûÿÿÿÿ8¯»¶ù+
+=squid:S1659"!Declare "rgt" on a separate line.(æâš¼8–Ä÷¬ù+
+Xsquid:UnusedPrivateMethod")Remove this unused private "goUp" method.(ÇïïŸÿÿÿÿÿ8Ø·¾¶ù+
