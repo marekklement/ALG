@@ -1,0 +1,16 @@
+
+ssquid:S3776"RRefactor this method to reduce its Cognitive Complexity from 21 to the 15 allowed.(˜„âÂøÿÿÿÿ8á «ü+
+T
+squid:S106"9Replace this use of System.out or System.err by a logger.(Ù©È±8á «ü+
+Y
+squid:S106"9Replace this use of System.out or System.err by a logger.(Ãšİêùÿÿÿÿ8ù—şªü+
+ksquid:S3008"PRename this field "EDGES" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(İº38Øúöªü+
+wsquid:S00116"URename this field "LinkedList" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ø§·Öıÿÿÿÿ8á «ü+
+Y
+squid:S106"9Replace this use of System.out or System.err by a logger.(ŞÒ—üÿÿÿÿ8á «ü+
+Ysquid:UselessImportCheck"0Remove this unused import 'java.util.ArrayList'.(÷‰îƒ8«ü+
+Y
+squid:S106"9Replace this use of System.out or System.err by a logger.(ªÓ¼áşÿÿÿÿ8á «ü+
+lsquid:S3008"PRename this field "NODES" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(­ãè8á «ü+
+Tsquid:S1854"8Remove this useless assignment to local variable "size".(Ñ¤€¤8¸ƒ¢«ü+
+Psquid:S1066"/Merge this if statement with the enclosing one.(¶¨¨ƒûÿÿÿÿ8á «ü+

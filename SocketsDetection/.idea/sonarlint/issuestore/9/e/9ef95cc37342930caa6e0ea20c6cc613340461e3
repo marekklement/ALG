@@ -1,0 +1,14 @@
+
+@squid:S1659"&Declare "bufIndex" on a separate line.(É‰êºøÿÿÿÿ
+Dsquid:S1659"*Declare "numBytesRead" on a separate line.(É‰êºøÿÿÿÿ
+=squid:S1659"#Declare "value" on a separate line.(¢´ç¬øÿÿÿÿ
+=squid:S1659"#Declare "_byte" on a separate line.(¢´ç¬øÿÿÿÿ
+6squid:S1659"!Declare "res" on a separate line.(ïÖŽØ
+Hsquid:S1068".Remove this unused "bufferSize" private field.(É‰êºøÿÿÿÿ
+esquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(ÒÙð™ùÿÿÿÿ
+Ksquid:S2696"6Make the enclosing method "static" or remove this set.(ßåèø
+Ksquid:S2696"6Make the enclosing method "static" or remove this set.(±ù”
+Psquid:S2696"6Make the enclosing method "static" or remove this set.(Ýòµ¢øÿÿÿÿ
+Psquid:S2696"6Make the enclosing method "static" or remove this set.(Ýòµ¢øÿÿÿÿ
+lsquid:S3776"RRefactor this method to reduce its Cognitive Complexity from 16 to the 15 allowed.(í Â¥þÿÿÿÿ
+lsquid:S00117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¢´ç¬øÿÿÿÿ

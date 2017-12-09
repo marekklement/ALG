@@ -1,0 +1,11 @@
+
+Psquid:S1068"/Remove this unused "listOfEdges" private field.(é·ß³ùÿÿÿÿ8³ØÏı+
+Vsquid:S1854":Remove this useless assignment to local variable "beenIn".(ÖãêŞ8Í¨ÿÏı+
+Jsquid:S1068")Remove this unused "conns" private field.(şŸ €øÿÿÿÿ8õ°ªĞı+
+Gsquid:S1481"+Remove this unused "beenIn" local variable.(ÖãêŞ8Í¨ÿÏı+
+Lsquid:S1068"0Remove this unused "numberOfKeys" private field.(”Ø¡è8³ØÏı+
+squid:S1186"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(½¶êª8Ó¾¹Íı+
+1squid:S1220""Move this file to a named package.
+Msquid:S1068",Remove this unused "keyServs" private field.(şÍ¡úÿÿÿÿ8Â²ÜÏı+
+\squid:UnusedPrivateMethod"-Remove this unused private "findLoop" method.(åŞÀôøÿÿÿÿ8õ¿øÏı+
+Esquid:S00108")Either remove or fill this block of code.(É—ôt8±³®Ğı+

@@ -1,0 +1,6 @@
+
+1squid:S1220""Move this file to a named package.
+Wsquid:S1854";Remove this useless assignment to local variable "lineSer".(±°‹À8Ÿ‹ÌÏı+
+Vsquid:UselessImportCheck".Remove this unused import 'java.util.TreeSet'.(½îB8ê¤¤Ğı+
+Hsquid:S1481",Remove this unused "lineSer" local variable.(±°‹À8Ÿ‹ÌÏı+
+_squid:UselessImportCheck"1Remove this unused import 'java.util.Collection'.(¹ÉĞšùÿÿÿÿ8æ°¢Ğı+
