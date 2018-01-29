@@ -1,0 +1,12 @@
+<component name="libraryTable">
+  <library name="ProjectSmartHome">
+    <CLASSES>
+      <root url="file://$PROJECT_DIR$/../../ONM/semestralka/ProjectSmartHome" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="file://$PROJECT_DIR$/../../ONM/semestralka/ProjectSmartHome/src/main/java" />
+      <root url="file://$PROJECT_DIR$/../../ONM/semestralka/ProjectSmartHome/src/test" />
+    </SOURCES>
+  </library>
+</component>

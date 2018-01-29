@@ -1,18 +1,20 @@
 
-gsquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(² —¡8èÏÅ×ƒ,
-lsquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(—Ûóäûÿÿÿÿ8ìÀù¨ƒ,
-"squid:ClassVariableVisibilityCheck"UMake deptCount a static final constant or non-public and provide accessors if needed.(ÔØäûùÿÿÿÿ8Ô´ªÀƒ,
-nsquid:S3776"RRefactor this method to reduce its Cognitive Complexity from 16 to the 15 allowed.(œû¿Ø8¤Î®ƒ,
-Ysquid:S1854"=Remove this useless assignment to local variable "middlePlu".(°ü¬ò8”ÖºÙƒ,
-^squid:S1226"BIntroduce a new variable instead of reusing the parameter "depth".(˜æûó8™ëÀƒ,
-T
-squid:S106"9Replace this use of System.out or System.err by a logger.(ó©ÿ›8çñû¨ƒ,
 Psquid:S1444"/Make this "public static deptCount" field final(ÔØäûùÿÿÿÿ8Ô´ªÀƒ,
 lsquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(—Ûóäûÿÿÿÿ8ô´î³ƒ,
-lsquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(—Ûóäûÿÿÿÿ8©§ÙÂƒ,
-@squid:S1659"$Declare "toSize" on a separate line.(Ìö»‡8Øà£”ƒ,
+Ysquid:S1854"=Remove this useless assignment to local variable "middlePlu".(°ü¬ò8”ÖºÙƒ,
+nsquid:S3776"RRefactor this method to reduce its Cognitive Complexity from 16 to the 15 allowed.(œû¿Ø8¤Î®ƒ,
+lsquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(—Ûóäûÿÿÿÿ8ìÀù¨ƒ,
 Jsquid:S1481".Remove this unused "middlePlu" local variable.(°ü¬ò8”ÖºÙƒ,
+gsquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(² —¡8èÏÅ×ƒ,
 Esquid:S2386"$Make member "deptCount" "protected".(»é…Ýùÿÿÿÿ8Ô´ªÀƒ,
-lsquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(¿±ëÄýÿÿÿÿ8­ÈèÕƒ,
-^squid:S2259"BA "NullPointerException" could be thrown; "node" is nullable here.(ÀõÕÈ8‰Û—”ƒ,
 fsquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(˜•…)8ÿ‹ú«ƒ,
+^squid:S1226"BIntroduce a new variable instead of reusing the parameter "depth".(˜æûó8™ëÀƒ,
+^squid:S2259"BA "NullPointerException" could be thrown; "node" is nullable here.(ÀõÕÈ8‰Û—”ƒ,
+@squid:S1659"$Declare "toSize" on a separate line.(Ìö»‡8Øà£”ƒ,
+lsquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(¿±ëÄýÿÿÿÿ8­ÈèÕƒ,
+lsquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(—Ûóäûÿÿÿÿ8©§ÙÂƒ,
+"squid:ClassVariableVisibilityCheck"UMake deptCount a static final constant or non-public and provide accessors if needed.(ÔØäûùÿÿÿÿ8Ô´ªÀƒ,
+T
+squid:S106"9Replace this use of System.out or System.err by a logger.(¦‚ž²8ÑíÚð“,
+T
+squid:S106"9Replace this use of System.out or System.err by a logger.(ó©ÿ›8çñû¨ƒ,

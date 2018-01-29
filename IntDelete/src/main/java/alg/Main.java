@@ -84,6 +84,7 @@ public class Main {
 		System.out.println(dep+" "+deptCount[dep-1]);
 //		System.out.println();
 //		System.out.println(tree.counter+" || "+(tree.size-tree.deletionCount));
+		System.out.println(tree.root);
 	}
 
 	public static int getSize(Node root){
